@@ -1,5 +1,15 @@
 .main-1{
     height: 900px;
     width: 900px;
-    background-color: aquamarine;
+   background-color: aquamarine;
+   font-size: 30px;
+   
+}
+.sub-1{
+    height: 40%;
+    width: 100%;
+    color: blue;
+    background: linear-gradient(to top,#CCFFFF,#CCFF99,#FFCCFF);
+    font-size: 2em;
+    
 }
