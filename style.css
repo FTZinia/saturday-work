@@ -16,7 +16,17 @@
 .sub-2{
     height: 60%;
     width: 100%;
-    color: ;
+    color: greenyellow;
     background: linear-gradient(120deg,#CC9999,#CC99FF,#CC6666);
     font-size: 4rem;
+}
+.main-2{
+    height: 700px;
+    width: 600px;
+    color: red;
+    background: linear-gradient(rgb(100,150,200), rgba(250,200,150,0.2)),url(./img/./IMG_20210821_172032.jpg);
+    background-size: cover;
+    background-position: 50% 100%;
+    font-size: 20px;
+
 }
